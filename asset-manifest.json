@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca60f826.css",
-    "main.js": "/static/js/main.498bcddc.js",
+    "main.css": "/static/css/main.b9dd6f02.css",
+    "main.js": "/static/js/main.145f6fbb.js",
     "static/media/card-bg-7.svg": "/static/media/card-bg-7.d1063dbcec0a35f73b32.svg",
     "static/media/card-bg-2.svg": "/static/media/card-bg-2.a996dbbd0dcff467c736.svg",
     "static/media/card-bg-9.svg": "/static/media/card-bg-9.a4cf12268666cf88b578.svg",
@@ -54,11 +54,11 @@
     "static/media/explore-half-star.svg": "/static/media/explore-half-star.1fd7d4f2945a7690bd2360241f61f36a.svg",
     "static/media/headphones.svg": "/static/media/headphones.08bfee4ae06d9e14a5ac8268a811809e.svg",
     "static/media/BG-daily market pattern.svg": "/static/media/BG-daily market pattern.d3f09001ec5e1c64bd81.svg",
+    "index.html": "/index.html",
     "static/media/key-2.svg": "/static/media/key-2.8b85e054d5011308ba3f749935d863a9.svg",
     "static/media/explore-blank-star.svg": "/static/media/explore-blank-star.7c1d2a5456f2879cf03cb2f0b485b28a.svg",
     "static/media/primary-spinner.svg": "/static/media/primary-spinner.b81c0bd1ee937118633c65d30dbcf015.svg",
     "static/media/toggle.svg": "/static/media/toggle.a09c779ccbf4d329ead9d0f8ee0de7b5.svg",
-    "index.html": "/index.html",
     "static/media/play-button.svg": "/static/media/play-button.8cf6d4c6ee954bd88fe2f229c94b41de.svg",
     "static/media/horse.svg": "/static/media/horse.fb0d603b623ac11aeecbfc94a790ccad.svg",
     "static/media/heart.svg": "/static/media/heart.696da0441f8a6310ce957417baa02580.svg",
@@ -66,8 +66,10 @@
     "static/media/heart-icon.svg": "/static/media/heart-icon.b5502704d2be2dae0c4f51590bab404f.svg",
     "static/media/Group 15007.svg": "/static/media/Group 15007.8fbffcbf8dfaa488c5643bd5a7259244.svg",
     "static/media/etf trustees.svg": "/static/media/etf trustees.24bee411c747e3f1c599e09369fcb588.svg",
+    "static/media/grey-info-btn.svg": "/static/media/grey-info-btn.31a5fa6cf2bf9479e0cf0ebba4bebacd.svg",
     "static/media/info-button-gray.svg": "/static/media/info-button-gray.b0c5f72a056f0a230a6ee8a4ca78ae23.svg",
     "static/media/info-button.svg": "/static/media/info-button.15898ab36513b2fb2ad2e374db1dc320.svg",
+    "static/media/black-info-btn.svg": "/static/media/black-info-btn.500ec2a1cac8e17bdbc9c486bcff97eb.svg",
     "static/media/Address.svg": "/static/media/Address.c5569646bb913ff5b6dfcb55acacf792.svg",
     "static/media/search.svg": "/static/media/search.4862e0516a1f88dc4778e24aa190f5e8.svg",
     "static/media/daily-market-line-top-mobile.svg": "/static/media/daily-market-line-top-mobile.723a640d9c5dcde23a34.svg",
@@ -122,11 +124,11 @@
     "static/media/Rectangle 3958 (9).svg": "/static/media/Rectangle 3958 (9).66d8ebd9ef83fbcfe05b1af16077005b.svg",
     "static/media/Rectangle 3958.svg": "/static/media/Rectangle 3958.bb792ccd519be270c6f36fe0c4c7f659.svg",
     "static/media/graph-dot.svg": "/static/media/graph-dot.69a3989609d4eddca7c08ddb5f6c2679.svg",
-    "main.ca60f826.css.map": "/static/css/main.ca60f826.css.map",
-    "main.498bcddc.js.map": "/static/js/main.498bcddc.js.map"
+    "main.b9dd6f02.css.map": "/static/css/main.b9dd6f02.css.map",
+    "main.145f6fbb.js.map": "/static/js/main.145f6fbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca60f826.css",
-    "static/js/main.498bcddc.js"
+    "static/css/main.b9dd6f02.css",
+    "static/js/main.145f6fbb.js"
   ]
 }
